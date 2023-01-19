@@ -1,0 +1,27 @@
+body{
+	background-color: yellow;
+}
+
+h1{
+	text-align: center;
+	background-color: yellow;
+	color: seagreen;
+	border: 5px solid blue;
+	border-radius: 30px;
+	cursor: pointer;
+}
+img{
+     float:right;
+}
+
+li{
+	color: seagreen;
+	text-transform: uppercase;
+}
+span{
+	font-size:5em ;
+}
+
+footer{
+	text-align: right;
+}
